@@ -1049,6 +1049,22 @@ div .pics{
         margin-left: 250px;
         margin-top: 50px;
     }
+    .cw h1{
+    font-size:60px;
+    color: white;
+    margin-top: 200px;
+    margin-left: 100px;
+    font-family: Adobe Devanagari;
+    }
+   .cw h1 span{
+    font-size: 90px;
+    }
+    .cw h2{
+    font-size:40px;
+    color: white;
+    margin-left: 100px;
+    font-family: Adobe Devanagari;
+    }
     /*-----product----*/
     .card{
         width:500px;
